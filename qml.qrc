@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SoftButtonUI.qml</file>
+        <file>Facebook.png</file>
+        <file>GPlus.png</file>
+    </qresource>
+</RCC>
